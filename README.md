@@ -1,4 +1,4 @@
-# 2018_Brand
+# 2018_Brand_US_US_Analysis
 
 UK_US_Price_Comparison
 2018 Brand Analysis.ipynb - this file refers to the code for all the analysis
